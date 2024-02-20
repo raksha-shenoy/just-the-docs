@@ -1,8 +1,9 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
-gem "jekyll-github-metadata", ">= 2.15"
+gem "jekyll", "~> 4.3.3"
+gem "just-the-docs", "~> 0.7.0"
 
-gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.0", :group => :development
+
+#gem "html-proofer", "~> 5.0", :group => :development

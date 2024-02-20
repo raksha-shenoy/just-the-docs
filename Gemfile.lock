@@ -142,11 +142,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (>= 2.3.5)
-  html-proofer (~> 5.0)
-  jekyll-github-metadata (>= 2.15)
-  jekyll-include-cache
-  just-the-docs!
+  jekyll (~> 4.3.3)
+  just-the-docs (= 0.7.0)
+ 
 
 BUNDLED WITH
-   2.4.13
+   2.4.26
